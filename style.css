@@ -1,0 +1,56 @@
+body{
+    background-color: teal;
+}
+
+ul{
+    list-style: none;
+}
+
+
+#img1{
+    border-style: solid;
+    border-width:3px;
+    border-color: red;
+
+}
+
+#img2{
+    border-style: solid;
+    border-width:3px;
+    border-color: red;
+
+}
+
+#img3{
+    border-style: solid;
+    border-width:3px;
+    border-color: red;
+
+}
+
+li a{
+    display: block;
+    background-color: black;
+    color: white;
+    width: 100px;
+
+}
+
+li a:hover{
+
+    color: red;
+    background-color: green;
+
+}
+
+h2{
+    color: white;
+}
+
+h2 div{
+    color: black;
+}
+
+p{
+    color: white;
+}
